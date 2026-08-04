@@ -24,3 +24,7 @@ minikybe profile list
 
 <!-- вбити кластер профіля -->
 minikube delete -p myCluster
+
+
+
+tabtest 
