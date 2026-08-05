@@ -1,0 +1,22 @@
+посмотреть версию ядра 
+uname -a
+
+посмотреть ip 
+sudo ifconfig (sudo apt install net-tools если нету)
+или 
+ip addr show 
+
+свободная память на диске 
+df -ah /
+
+управление сервисами 
+sudo service --status-all
+или 
+sudo systemctl 
+
+сколько места занимает папка на диске (например Workspace)
+du -sh ./Workspace
+
+открытые порты 
+sudo netstat -tulpn
+
