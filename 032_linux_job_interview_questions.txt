@@ -20,3 +20,12 @@ du -sh ./Workspace
 открытые порты 
 sudo netstat -tulpn
 
+информация о процессе 
+ps -aux
+
+top 
+
+htop 
+
+btop 
+
